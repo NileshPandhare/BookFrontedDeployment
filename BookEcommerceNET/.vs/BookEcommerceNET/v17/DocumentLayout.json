@@ -1,0 +1,1015 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:datainitializer\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\adminpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\adminpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\sellerpaymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\sellerpaymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\soldproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\soldproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\productuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\productuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\cartrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\cartrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203941_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203721_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\cartresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\orderdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\orderdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\dto\\adminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:dto\\adminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\bookecommercenet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:bookecommercenet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|c:\\users\\nilesh\\desktop\\deploy\\bookdeploybackend\\migrations\\20250807224106_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397E7564-73D4-433C-B085-F17D415E6BC1}|BookEcommerceNET.csproj|solutionrelative:migrations\\20250807224106_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Configuration\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Configuration\\JWTSettings.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Configuration\\JWTSettings.cs",
+              "RelativeToolTip": "Configuration\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:36:43.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:14:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABQAAACAZWZmZmYTwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:47:08.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T11:38:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:51:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\ShopdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ShopdbContext.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\ShopdbContext.cs",
+              "RelativeToolTip": "Models\\ShopdbContext.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwKwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:21:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:04:42.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\EditUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EditUserDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\EditUserDTO.cs",
+              "RelativeToolTip": "DTO\\EditUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:58:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:53:30.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DataInitializer\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DataInitializer\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DataInitializer\\DataSeeder.cs",
+              "RelativeToolTip": "DataInitializer\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:48:28.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:10:25.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAABcAAACAMzMzM7MQwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:54:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\AdminPaymentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AdminPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\AdminPaymentDTO.cs",
+              "RelativeToolTip": "DTO\\AdminPaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:06:45.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\CartService.cs",
+              "RelativeToolTip": "Services\\CartService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:47:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABQAAAAAfmZmZmbwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:32:16.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABEAAAAAaGZmZmYHwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:50:37.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AgIAADwAAAAAQmZmZmb2vzQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:14:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAEAAAADgzMzMzAwqwF0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:46:07.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAEApwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:36:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAABsAAACANDMzM7MuwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:35:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250807224106_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Migrations\\20250807224106_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250807224106_initial migration.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Migrations\\20250807224106_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20250807224106_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T22:41:06.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SellerPaymentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\SellerPaymentResponseDto.cs",
+              "RelativeDocumentMoniker": "DTO\\SellerPaymentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\SellerPaymentResponseDto.cs",
+              "RelativeToolTip": "DTO\\SellerPaymentResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:56:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAMDMzMzPjvyEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:22:18.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:11:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:59:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IPaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:11:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:09:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:34:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:44:35.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductUploadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductUploadDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductUploadDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductUploadDTO.cs",
+              "RelativeToolTip": "DTO\\ProductUploadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:30:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SoldProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\SoldProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SoldProductDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\SoldProductDTO.cs",
+              "RelativeToolTip": "DTO\\SoldProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:17:30.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:11:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:59:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:12:32.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\ProductUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:30:47.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250807203721_initial migration.cs",
+              "DocumentMoniker": "D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203721_initial migration.cs",
+              "ToolTip": "D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203721_initial migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:37:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250807203941_initial migration.cs",
+              "DocumentMoniker": "D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203941_initial migration.cs",
+              "ToolTip": "D:\\NETWorkspace\\BookEcommerceNET\\Migrations\\20250807203941_initial migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:39:42.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA9wBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:13:29.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartRequestDTO.cs",
+              "RelativeToolTip": "DTO\\CartRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:18:48.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:58:41.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:55:48.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:10:07.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:45:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T14:58:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:33:08.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:45:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:49:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:55:56.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "DTO\\OrderItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:37:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:10:32.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:00:49.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartResponseDTO.cs",
+              "RelativeToolTip": "DTO\\CartResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:04:52.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Models\\Roles.cs",
+              "RelativeToolTip": "Models\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:47:35.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:17:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderDtoResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDtoResponse.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\OrderDtoResponse.cs",
+              "RelativeToolTip": "DTO\\OrderDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:31:01.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PaymentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\PaymentResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PaymentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\PaymentResponseDTO.cs",
+              "RelativeToolTip": "DTO\\PaymentResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:32:01.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CreateOrderRequest.cs",
+              "RelativeToolTip": "DTO\\CreateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:15:31.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "DTO\\CartDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:18:30.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AdminOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\AdminOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AdminOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\AdminOrderDTO.cs",
+              "RelativeToolTip": "DTO\\AdminOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:17:07.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:04:28.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:26:59.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BookEcommerceNET.csproj",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\BookEcommerceNET.csproj",
+              "RelativeDocumentMoniker": "BookEcommerceNET.csproj",
+              "ToolTip": "C:\\Users\\Nilesh\\Desktop\\deploy\\Bookdeploybackend\\BookEcommerceNET.csproj",
+              "RelativeToolTip": "BookEcommerceNET.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-07T11:37:17.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
