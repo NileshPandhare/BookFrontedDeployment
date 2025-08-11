@@ -1,24 +1,24 @@
-# Stage 1: Build the app
+# Use SDK image to build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy everything and restore
+# Copy only the csproj and restore first (leveraging Docker cache)
+COPY BookEcommerceNET/BookEcommerceNET.csproj BookEcommerceNET/
+RUN dotnet restore BookEcommerceNET/BookEcommerceNET.csproj
+
+# Copy the rest of the files
 COPY . .
-RUN dotnet restore
 
-# Publish app to /app folder
-RUN dotnet publish -c Release -o /app
+# Publish the project
+RUN dotnet publish BookEcommerceNET/BookEcommerceNET.csproj -c Release -o /app/publish
 
-# Stage 2: Create runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+# Use runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 
-# Copy published app from build stage
-COPY --from=build /app .
+# Copy the published output
+COPY --from=build /app/publish .
 
-# Expose port 10000 (you can change if needed)
-ENV ASPNETCORE_URLS=http://+:10000
-EXPOSE 10000
-
-# Run your app
+# Set entrypoint
 ENTRYPOINT ["dotnet", "BookEcommerceNET.dll"]
+
